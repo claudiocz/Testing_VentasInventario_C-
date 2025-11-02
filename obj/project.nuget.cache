@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IaXllAb21GU=",
+  "success": true,
+  "projectFilePath": "E:\\CARRERA SOFTWARE\\4º SEMESTRE\\4. METODOLOGIAS DE ING. DE SOFTWARE II\\TESTING\\GESTION DE INVENTARIO Y VENTAS DE COMPUTADORA\\GESTION DE INVENTARIO Y VENTAS DE COMPUTADORA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Claudio\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Claudio\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Claudio\\.nuget\\packages\\npgsql\\9.0.4\\npgsql.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
