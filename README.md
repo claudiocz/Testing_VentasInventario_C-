@@ -1,2 +1,2 @@
-# Testing_VentasInventario_C-
+# Testing Ventas Inventario C#
 Pruebas Funcionales y no funcionales
