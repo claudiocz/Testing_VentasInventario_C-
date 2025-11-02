@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GESTION DE INVENTARIO Y VENTAS DE COMPUTADORA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af2a7e07433c027c890f1ff0ccc7245f63bc95b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("GESTION DE INVENTARIO Y VENTAS DE COMPUTADORA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GESTION DE INVENTARIO Y VENTAS DE COMPUTADORA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
